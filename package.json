@@ -1,0 +1,33 @@
+{
+  "name": "lru-map-cache",
+  "version": "0.1.0",
+  "description": "A simple and fast LRU cache using the native Map class.",
+  "main": "src/index.js",
+  "files": [
+    "src",
+    "readme.md",
+    "LICENSE",
+    "package.json"
+  ],
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/helloanoop/lru-map-cache.git"
+  },
+  "keywords": [
+    "lru",
+    "cache",
+    "map"
+  ],
+  "author": "Anoop M D <anoop.md1421@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/helloanoop/lru-map-cache/issues"
+  },
+  "homepage": "https://github.com/helloanoop/lru-map-cache#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
